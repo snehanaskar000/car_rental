@@ -118,6 +118,6 @@ Special thanks to **Bishal Ghosh** and **Travarsa Private Limited** for their gu
 
 ## Author
 
-**Jit Biswas**
+**Sneha Naskar**
 
 Aspiring Full-Stack Developer passionate about PHP, MySQL, JavaScript, and Web Application Development.
